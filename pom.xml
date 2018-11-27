@@ -23,6 +23,7 @@
 			<version>4.1.7.RELEASE</version>
 		</dependency>
 	</dependencies>
+	<build>
 	<plugins>
 <plugin>
 <groupId>org.jacoco</groupId>
@@ -44,4 +45,5 @@
 </executions>
 </plugin>
 </plugins>
+		</build>
 </project>
